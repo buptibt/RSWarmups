@@ -14,5 +14,5 @@ DOI=http://dx.doi.org/10.1145/2827872
 
 The results on movielens-100k dataset:
 
-hit@5 :  0.02545
+hit@5 :  0.02545     
 ndcg@5:  0.01429
